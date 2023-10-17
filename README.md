@@ -31,6 +31,6 @@ Estos son algunas de las imagenes generadas por nuestro modelo
 
 ![Resultados](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/resultados.png)
 
-## URL
-Projecto en desarrollo :hammer:
+# URL
+https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales
 

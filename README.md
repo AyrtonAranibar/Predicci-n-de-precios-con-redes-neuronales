@@ -25,9 +25,9 @@ En este repositorio puedes encontrar en la raiz un excel que dice "resultados_pr
 
 Estos son algunas de las imagenes generadas por nuestro modelo
 
-![Grafico de disperción](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/images/grafico_de_dispercion.png)
-![Prompt](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/images/resultados_prompt.png)
-![Resultados](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/images/resultados.png)
+![Grafico de disperción](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/grafico_de_dispercion.png)
+![Prompt](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/resultados_prompt.png)
+![Resultados](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/resultados.png)
 
 ## URL
 Projecto en desarrollo :hammer:

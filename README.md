@@ -1,6 +1,6 @@
-# Prediccion de precios con redes neuronales multicapa
+# Predicción de precios con redes neuronales multicapa
 
-Este trabajo academico para el curso de Big Data, se encarga de predecir los precios de las viviendas segun sus caracteristicas
+Este trabajo académico para el curso de Big Data se encarga de predecir los precios de las viviendas según sus características.
 
 # Autores
 
@@ -9,23 +9,23 @@ Este trabajo academico para el curso de Big Data, se encarga de predecir los pre
 - ORMACHEA CAYLLAHUA JOSSE MANUEL
 - QUISPE TACO GIANCARLO
 
-# Instalacion
+# Instalación
 
-Se usó acanconda 4.12.0 y spyder 5.4.3, debes instalar estas librerias en Anaconda Prompt:
+Se usó Anaconda 4.12.0 y Spyder 5.4.3. Debes instalar las siguientes librerías en Anaconda Prompt:
 - pandas
 - tensorflow
-- sklearn
+- scikit-learn
 - matplotlib
 
 # Resultados
 
-En este repositorio puedes encontrar en la raiz un excel que dice "resultados_predicciones.xlsx" dale un vistazo
+En este repositorio, puedes encontrar en la raíz un archivo Excel llamado "resultados_predicciones.xlsx". Échale un vistazo.
 
-# Validacíon
+# Validación
 
-Estos son algunas de las imagenes generadas por nuestro modelo
+Estas son algunas de las imágenes generadas por nuestro modelo:
 
-![Grafico de disperción](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/grafico_de_dispercion.png)
+![Gráfico de dispersión](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/grafico_de_dispercion.png)
 
 ![Prompt](https://github.com/AyrtonAranibar/Predicci-n-de-precios-con-redes-neuronales/blob/master/images/resultados_prompt.png)
 
